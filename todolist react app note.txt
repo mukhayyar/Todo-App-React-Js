@@ -1,0 +1,23 @@
+TODOList React-App
+- Firebase
+- React
+- TODOLIST app
+- Database
+- Hosted online
+
+2 fundamentals o REACT
+
+STATE
+
+- gets cleared after refreshed
+
+Props
+
+-
+
+
+Run Dynamic Javascript with JSX
+
+JSX - Javascript + HTML Hybrid
+
+event.preventDefault() // will stop the refresh 
